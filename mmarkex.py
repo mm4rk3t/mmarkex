@@ -3,7 +3,7 @@ from os import sys # Needed to exit some commands
 import random # Needed to select random files
 import webbrowser # Needed to open websites
 import time # Needed to 'time.sleep(#)
-import colors # Own file
+import colors # Own file (colors.py)
 
 
 def main():
