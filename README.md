@@ -23,15 +23,18 @@ directory,you will have to edit 'makeBin.sh' and run it as superuser. In my case
 
 `sudo echo "python3 /home/mm4rk3t/Github/mmarkex/mmarkex.py" >> /usr/bin/mmarkex && sudo chmod +x /usr/bin/mmarkex`
 
-Then you give it executable permission:
+Then you give it executable permission
+
 `sudo chmod +x makeBin.sh`
 
-And you run it:
+And you run it
+
 `sudo ./makeBin.sh`
 
 
-That's all you have to do, here you  have some screenshots:
+That's all you have to do, here you have a screenshot:
 
+![Image](img/screenshot.png?raw=true)
 
 
 
