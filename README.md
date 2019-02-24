@@ -38,10 +38,8 @@ That's all you have to do, here you have a screenshot:
 
 Feel free to modify it in order to suit your needs, as it is suited for mine.
 
-If you detect any bugs or have any recommendations, please [email
-me](mailto:mercadomanuu@outlook.com). I will gladly take your critics into account.
+If you detect any bugs or have any recommendations, please [email me](mailto:mercadomanuu@outlook.com). I will gladly take your critics into account. Also, check out my [website](http://manumercado.tk).
 
-Also, check out my (http://manumercado.tk)[website]
 
 Enjoy your day!
 

@@ -56,7 +56,7 @@ def main():
         time.sleep(1)
         webbrowser.open_new_tab("https://instagram.com")
         time.sleep(1)
-        webbrowser.open_new_tab("https://reddit.com")
+        webbrowser.open_new_tab("https://bluedit.com")
         time.sleep(1)
         webbrowser.open_new_tab("https://tumblr.com")
         time.sleep(1)
