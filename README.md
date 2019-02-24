@@ -36,8 +36,14 @@ That's all you have to do, here you have a screenshot:
 
 ![Image](img/screenshot.png?raw=true)
 
+Feel free to modify it in order to suit your needs, as it is suited for mine.
 
+If you detect any bugs or have any recommendations, please [email
+me](mailto:mercadomanuu@outlook.com). I will gladly take your critics into account.
 
+Also, check out my (http://manumercado.tk)[website]
+
+Enjoy your day!
 
 
 _Tested in python 3.6.7_
