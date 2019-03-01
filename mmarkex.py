@@ -90,7 +90,7 @@ def main():
 
         directories = sorted(os.listdir("/home/mm4rk3t/Pictures/Wallpapers"))
 
-        print(accent_color +"\n".join(directories)+"\n" + text_color)
+        print("\n" + accent_color + "\n".join(directories)+ "\n" + text_color)
 
         directory = input(coloblue_input)
 
