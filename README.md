@@ -18,20 +18,6 @@ Some of these libraries are already installed by default, but you will have to i
 
 It is very important to keep the files in the same directory, otherwise, 'changeColors.py' will be useless, so will be 'colors.py'.
 
-If you want to run <b>mmarkex</b> without the need of going to the
-directory,you will have to edit 'makeBin.sh' and run it as superuser. In my case it would be:
-
-`sudo echo "python3 /home/mm4rk3t/Github/mmarkex/mmarkex.py" >> /usr/bin/mmarkex && sudo chmod +x /usr/bin/mmarkex`
-
-Then you give it executable permission
-
-`sudo chmod +x makeBin.sh`
-
-And you run it
-
-`sudo ./makeBin.sh`
-
-
 That's all you have to do, here you have a screenshot:
 
 ![Image](img/screenshot.png?raw=true)
